@@ -4,7 +4,7 @@
 - WSGI, short for "Web Server Gateway Interface", represents an interface between webservers and web applications, in this case python web applications 
 - The following is code review for the gn2 uploading app wsgi file
  
-#### Section 01: `Module Imports` 
+#### Section 01: Module Imports 
 ```python 
 import os
 import sys
